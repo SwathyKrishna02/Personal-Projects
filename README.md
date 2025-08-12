@@ -102,6 +102,6 @@ This repository showcases academic, internship, and self-learning projects in **
 ---
 
 ## 📫 Contact
-- **GitHub**: [YourUsername](https://github.com/SwathyKrishna02)
-- **LinkedIn**: [YourLinkedInProfile](https://www.linkedin.com/in/swathy-krishna-/)
+- **GitHub**: [Swathy Krishna](https://github.com/SwathyKrishna02)
+- **LinkedIn**: [Swathy Krishna](https://www.linkedin.com/in/swathy-krishna-/)
 - **Email**: swathykrishnamany01@gmail.com
